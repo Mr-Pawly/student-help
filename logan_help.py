@@ -71,7 +71,7 @@ def drawLegs(t):
 def main():
  
     gex = turtle.Turtle()
-	gex.speed(50)
+    gex.speed(50)
 	
     games = ["MINECRAFT", "SKYRIM", "HALO", "TETRIS", "HOLLOW KNIGHT", "OCARINA OF TIME", "SUPER MARIO ODYSSEY"]
 	
